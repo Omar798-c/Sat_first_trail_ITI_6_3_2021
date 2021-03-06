@@ -1,0 +1,1 @@
+window.print("Hi from the otherside");
